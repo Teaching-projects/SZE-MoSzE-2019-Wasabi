@@ -1,0 +1,14 @@
+#to ignore files
+
+*.vcxproj
+*.vcxproj.filters
+.vs/
+
+*.o
+*.app
+*.txt
+*.out
+*.lib
+*.exe
+*.app
+*.obj
